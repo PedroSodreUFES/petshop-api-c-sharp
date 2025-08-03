@@ -1,0 +1,15 @@
+/home/pedro/trabalhos/rocketseat/c#/04-biblioteca/Petfolio.Application/bin/Debug/net8.0/Petfolio.Application.deps.json
+/home/pedro/trabalhos/rocketseat/c#/04-biblioteca/Petfolio.Application/bin/Debug/net8.0/Petfolio.Application.dll
+/home/pedro/trabalhos/rocketseat/c#/04-biblioteca/Petfolio.Application/bin/Debug/net8.0/Petfolio.Application.pdb
+/home/pedro/trabalhos/rocketseat/c#/04-biblioteca/Petfolio.Application/bin/Debug/net8.0/Petfolio.Communication.dll
+/home/pedro/trabalhos/rocketseat/c#/04-biblioteca/Petfolio.Application/bin/Debug/net8.0/Petfolio.Communication.pdb
+/home/pedro/trabalhos/rocketseat/c#/04-biblioteca/Petfolio.Application/obj/Debug/net8.0/Petfolio.Application.csproj.AssemblyReference.cache
+/home/pedro/trabalhos/rocketseat/c#/04-biblioteca/Petfolio.Application/obj/Debug/net8.0/Petfolio.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/pedro/trabalhos/rocketseat/c#/04-biblioteca/Petfolio.Application/obj/Debug/net8.0/Petfolio.Application.AssemblyInfoInputs.cache
+/home/pedro/trabalhos/rocketseat/c#/04-biblioteca/Petfolio.Application/obj/Debug/net8.0/Petfolio.Application.AssemblyInfo.cs
+/home/pedro/trabalhos/rocketseat/c#/04-biblioteca/Petfolio.Application/obj/Debug/net8.0/Petfolio.Application.csproj.CoreCompileInputs.cache
+/home/pedro/trabalhos/rocketseat/c#/04-biblioteca/Petfolio.Application/obj/Debug/net8.0/Petfolio.Application.csproj.CopyComplete
+/home/pedro/trabalhos/rocketseat/c#/04-biblioteca/Petfolio.Application/obj/Debug/net8.0/Petfolio.Application.dll
+/home/pedro/trabalhos/rocketseat/c#/04-biblioteca/Petfolio.Application/obj/Debug/net8.0/refint/Petfolio.Application.dll
+/home/pedro/trabalhos/rocketseat/c#/04-biblioteca/Petfolio.Application/obj/Debug/net8.0/Petfolio.Application.pdb
+/home/pedro/trabalhos/rocketseat/c#/04-biblioteca/Petfolio.Application/obj/Debug/net8.0/ref/Petfolio.Application.dll
