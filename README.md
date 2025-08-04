@@ -10,4 +10,4 @@
 ### O que não foi feito nesse caso.
 + Uso de bancos de dados.
 ### Feito por:
-> Pedro Sodré, 2025
+Pedro Sodré, 2025
