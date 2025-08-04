@@ -6,6 +6,7 @@
 + Implementação de respostas e requisições em classes.
 + Swagger.
 + Tratamento de Erros.
++ Princípios SOLID.
 ### O que não foi feito nesse caso.
 + Uso de bancos de dados.
 ### Feito por:
