@@ -1,5 +1,5 @@
 # API de Petshop
-### O que foi feito
+### O que foi feito:
 + Encapsulamento de classes.
 + CRUD de pets(get all e get by id).
 + Implementação de casos de uso.
@@ -7,7 +7,7 @@
 + Swagger.
 + Tratamento de Erros.
 + Princípios SOLID.
-### O que não foi feito nesse caso.
+### O que não foi feito nesse caso:
 + Uso de bancos de dados.
 ### Feito por:
 Pedro Sodré, 2025
