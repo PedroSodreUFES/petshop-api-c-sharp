@@ -9,3 +9,4 @@
 /home/pedro/trabalhos/rocketseat/c#/04-biblioteca/Petfolio.Communication/obj/Debug/net8.0/refint/Petfolio.Communication.dll
 /home/pedro/trabalhos/rocketseat/c#/04-biblioteca/Petfolio.Communication/obj/Debug/net8.0/Petfolio.Communication.pdb
 /home/pedro/trabalhos/rocketseat/c#/04-biblioteca/Petfolio.Communication/obj/Debug/net8.0/ref/Petfolio.Communication.dll
+/home/pedro/trabalhos/rocketseat/c#/04-biblioteca/Petfolio.Communication/obj/Debug/net8.0/Petfolio.Communication.sourcelink.json

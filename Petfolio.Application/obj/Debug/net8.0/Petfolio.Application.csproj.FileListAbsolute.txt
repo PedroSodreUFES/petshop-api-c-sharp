@@ -13,3 +13,4 @@
 /home/pedro/trabalhos/rocketseat/c#/04-biblioteca/Petfolio.Application/obj/Debug/net8.0/refint/Petfolio.Application.dll
 /home/pedro/trabalhos/rocketseat/c#/04-biblioteca/Petfolio.Application/obj/Debug/net8.0/Petfolio.Application.pdb
 /home/pedro/trabalhos/rocketseat/c#/04-biblioteca/Petfolio.Application/obj/Debug/net8.0/ref/Petfolio.Application.dll
+/home/pedro/trabalhos/rocketseat/c#/04-biblioteca/Petfolio.Application/obj/Debug/net8.0/Petfolio.Application.sourcelink.json

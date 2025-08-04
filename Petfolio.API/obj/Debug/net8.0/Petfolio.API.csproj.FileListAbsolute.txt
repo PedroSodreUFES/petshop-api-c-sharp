@@ -34,3 +34,4 @@
 /home/pedro/trabalhos/rocketseat/c#/04-biblioteca/Petfolio.API/obj/Debug/net8.0/Petfolio.API.pdb
 /home/pedro/trabalhos/rocketseat/c#/04-biblioteca/Petfolio.API/obj/Debug/net8.0/Petfolio.API.genruntimeconfig.cache
 /home/pedro/trabalhos/rocketseat/c#/04-biblioteca/Petfolio.API/obj/Debug/net8.0/ref/Petfolio.API.dll
+/home/pedro/trabalhos/rocketseat/c#/04-biblioteca/Petfolio.API/obj/Debug/net8.0/Petfolio.API.sourcelink.json
