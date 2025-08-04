@@ -7,7 +7,11 @@
 + Swagger.
 + Tratamento de Erros.
 + Princípios SOLID.
-### O que não foi feito nesse caso:
+### O que não foi feito:
 + Uso de bancos de dados.
+### Como rodar:
+```bash
+dotnet run --project Petfolio.API
+```
 ### Feito por:
 Pedro Sodré, 2025
